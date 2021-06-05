@@ -13,7 +13,7 @@ I tried my best to display the data in the best way possible, using different va
 
 There is a brief overview of different types of charts in the image below :
 
-![alt text](https://github.com/mahdi-darvish/COVID-19_Analysis_and_Visualization/blob/master/graphs.png?raw=true)
+![alt text](https://github.com/prishitakapoor/COVID-19_Analysis_and_Visualization/blob/master/graphs.png?raw=true)
 
 
 ## Available Files
